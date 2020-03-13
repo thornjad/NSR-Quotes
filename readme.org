@@ -1,0 +1,3 @@
+#+title:NSR Quotes
+
+The official NSR Quotes under version control.
